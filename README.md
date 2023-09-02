@@ -1,10 +1,13 @@
 # weather_app
 
-A new Flutter project.
+Flutter Application to show weather data using OpenWeatherMap API service Daily Forecast and Historical Weather based on users location and using Basic weather map service to display precipitation and temperature on Google Maps.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app please add few keys as instructed below:
+
+1) Google map API_KEY : android/app/src/main/AndroidManifest.xml
+2) openWeatherMap API_KEY : lib/environment_config.dart
 
 A few resources to get you started if this is your first Flutter project:
 
